@@ -81,9 +81,9 @@ DATABASES = {
         #'ENGINE': 'django.db.backends.sqlite3',
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'postgres',
-        'USER': 'postgres',
-        'PASSWORD': 'pawskrz97',
-        'HOST': 'localhost',
+        'USER': 'wjrcxwnayj',
+        'PASSWORD': 'BY6Y4060YKIT112T$' + '.postgres.database.azure.com',
+        'HOST': 'sdgbackend-server',
         'PORT': '5432',
     }
 }
